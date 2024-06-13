@@ -13,7 +13,7 @@ st.markdown("This page provides a guide to the design elements, user experience 
 
 # UIX diagram
 with st.expander("User experience", expanded=True):
-    st.image("assets/uix.svg")
+    st.image("assets/flowchart.svg")
 
 # Icons
 with st.expander("Logo's & icons "):
